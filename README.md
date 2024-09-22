@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=kunwar1908)
-<img src="https://github-readme-stats.vercel.app/api?username=kunwar1908" />
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunwar1908)
