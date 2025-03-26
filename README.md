@@ -12,6 +12,7 @@ Hi, I'm **Kunwarpreet Singh**, a passionate **Student and coder**. I specialize 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 <!--
 **kunwar1908/kunwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
