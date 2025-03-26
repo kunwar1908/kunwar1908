@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=kunwar1908&theme=radical")
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunwar1908&show_icons=true&theme=radical&cache_seconds=86400")
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunwar1908&show_icons=true&cache_seconds=86400")
