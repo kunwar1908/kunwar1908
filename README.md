@@ -23,7 +23,6 @@ Hi, I'm **Kunwarpreet Singh**, a passionate **Student and coder**. I specialize 
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=kunwar1908&theme=aura&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=cbf3f0&ring_color=FF6600" alt="Kunwar's GitHub stats" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunwar1908&" alt="kunwar1908" /></p>
 <!--
 **kunwar1908/kunwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
