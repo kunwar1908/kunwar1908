@@ -15,7 +15,14 @@ Hi, I'm **Kunwarpreet Singh**, a passionate **Student and coder**. I specialize 
     <img src="https://img.shields.io/badge/Follow%20me%20on-Linkedin-0A66C2?" height='27' alt="LinkedIn" />
   </a>
 </p>
-
+## GitHub Stats
+<p>
+  <!-- Top Languages Card -->
+<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=kunwar1908&theme=aura&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=cbf3f0&ring_color=FF6600" alt="Kunwar's Top Languages" width="300px"/>
+  &nbsp;
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kunwar1908&theme=aura&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=cbf3f0&ring_color=FF6600" alt="Kunwar's GitHub stats" />
+</p>
 <!--
 **kunwar1908/kunwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
