@@ -12,7 +12,7 @@ Hi, I'm **Kunwarpreet Singh**, a passionate **Student and coder**. I specialize 
     <img src="https://img.shields.io/badge/Contact%20me%20on-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/kunwar1908/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me%20on-Linkedin-0A66C2?" height='27' alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Follow%20me%20on-Linkedin-0A66C2?" alt="LinkedIn" />
   </a>
 </p>
 ## GitHub Stats
