@@ -1,8 +1,8 @@
 ## Hi there 👋 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&repeat=false&vCenter=true&width=800&color=ff4f4f&lines=Kunwarpreet+Singh)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunwar1908&label=Profile%20views&color=0e75b6&style=flat" alt="kunwar1908" /> </p>
-## About me
-Hi, I'm **Kunwarpreet Singh**, a passionate **Student and coder**. I specialize in working with LLMs , Computer Vision , ML-DL, IoT and NLP, along with creating user-friendly web applications and interfaces. I'm working on honing my skills in these fields and also learm more skills like blockchain technology and cybersecurity skills.
+<h1>About me!</h1>
+Hi, I'm **Kunwarpreet Singh**, a passionate **Student and coder**. I specialize in working with LLMs , Computer Vision , ML-DL, IoT , blockchain technology , Drone Engineering and NLP, along with creating user-friendly web applications and interfaces. I'm working on honing my skills in these fields and also learm more skills like DSA and cybersecurity skills.
 
 <p>
   <a href="https://www.instagram.com/kunwar1908/" target="_blank">
