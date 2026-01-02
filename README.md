@@ -116,13 +116,10 @@ Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing 
 ## 🌟 Featured Projects
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunwar1908&repo=kunwar1908&theme=radical&bg_color=0D1117&title_color=FF6600&icon_color=7fffd4&text_color=ffffff&border_color=7fffd4)](https://github.com/kunwar1908/kunwar1908)
-
-</div>
-
-<div align="center">
-  <i>🚀 More exciting projects coming soon! Stay tuned...</i>
+  <p><i>🚀 Exciting projects coming soon! Currently working on innovative AI/ML applications...</i></p>
+  <p>💡 Check out my repositories for the latest updates!</p>
+  
+  [![View Repositories](https://img.shields.io/badge/View_All_Repositories-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunwar1908?tab=repositories)
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
