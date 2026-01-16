@@ -49,6 +49,7 @@ Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing 
 ## 🏆 GitHub Trophies
 
 <div align="center">
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/725c37ef-6c97-43f5-aad9-e632b05f28f6" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kunwar1908&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
