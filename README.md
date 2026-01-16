@@ -100,8 +100,7 @@ Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunwar1908&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6600&icon_color=7fffd4&text_color=ffffff&border_color=7fffd4&hide_border=false" alt="GitHub Stats" />
+![](https://nirzak-streak-stats.vercel.app/?user=kunwar1908&theme=dark&hide_border=false)<br/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunwar1908&theme=radical&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=7fffd4&sideLabels=7fffd4&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=7fffd4&stroke=7fffd4" alt="GitHub Streak" />
 
