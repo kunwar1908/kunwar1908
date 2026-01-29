@@ -51,8 +51,6 @@ Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing 
 <div align="center">
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/725c37ef-6c97-43f5-aad9-e632b05f28f6" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunwar1908&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -103,8 +101,6 @@ Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing 
 <div align="center">
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=kunwar1908&theme=dark&hide_border=false)"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunwar1908&theme=radical&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=7fffd4&sideLabels=7fffd4&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=7fffd4&stroke=7fffd4" alt="GitHub Streak" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwar1908&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6600&icon_color=7fffd4&text_color=ffffff&border_color=7fffd4&hide_border=false&hide=HTML&langs_count=8" alt="Top Languages" />
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunwar1908&theme=react-dark&bg_color=0D1117&color=7fffd4&line=FF6600&point=7fffd4&area=true&hide_border=false&border_color=7fffd4" alt="Contribution Graph" />
@@ -147,7 +143,7 @@ Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/kunwar1908/kunwar1908/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/kunwar1908/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
