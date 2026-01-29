@@ -143,7 +143,7 @@ Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing 
 
 <div align="center">
 
-![Snake animation](https://github.com/kunwar1908/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kunwar1908/kunwar1908/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
