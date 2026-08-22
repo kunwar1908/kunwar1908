@@ -39,8 +39,8 @@ me.say_hi()
 
 Hi, I'm **Kunwarpreet Singh** 👋, a passionate student and coder specializing in AI/ML technologies. I love turning research ideas into reproducible code and practical systems. Currently exploring the fascinating world of LLMs, Computer Vision, and cutting-edge AI applications.
 
-🔭 **Currently Working On:** AI/ML projects, LLM applications, and Computer Vision systems  
-🌱 **Learning:** Advanced Deep Learning techniques, Transformer architectures, and Drone Engineering  
+🔭 **Currently Working On:**   Fintech and Quant Trading , honing skills and self development.
+🌱 **Learning:** AI/ML projects, LLM applications, Computer Vision systems, Advanced Deep Learning techniques, Transformer architectures, and Drone Engineering  
 💬 **Ask me about:** Python, ML/DL, LLMs, Computer Vision, IoT, or anything tech!  
 ⚡ **Fun fact:** I enjoy bridging the gap between research papers and production-ready code
 
